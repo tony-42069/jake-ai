@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/twitter/follow/jake_knocks?style=social" alt="Follow @jake_knocks"/>
     </a>
     <a href="https://twitter.com/credebt_dorian">
-        <img src="https://img.shields.io/twitter/follow/credebt_dorian?style=social" alt="Follow @credebt_dorian"/>
+        <img src="https://img.shields.io/twitter/follow/credebtdorian?style=social" alt="Follow @credebt_dorian"/>
     </a>
 </p>
 
