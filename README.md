@@ -1,7 +1,7 @@
-# 🧱 Jake AI - The Ultimate Door-to-Door Salesman
+# 🧱 AI Jake - The Ultimate Door-to-Door Salesman
 
 <p align="center">
-    <img src="assets/jake_banner.jpeg" width="800" alt="Jake AI Banner"/>
+    <img src="assets/jake_banner.jpeg" width="800" alt="AI Jake Banner"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 ## About Jake
-Jake AI is an unhinged door-to-door salesman turned AI, trained on a combination of real tweets and epic MLM saga stories. He specializes in:
+AI Jake is an unhinged door-to-door salesman turned AI, trained on a combination of real tweets and epic MLM saga stories. He specializes in:
 - Turning disasters into billion-dollar opportunities
 - Calculating profits (because he's a genius)
 - Getting his limo driver Ferdinand lost in exotic locations
