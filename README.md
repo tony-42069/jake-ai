@@ -104,5 +104,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - That guy from BlackRock (met him at that bingo hall)
 ```
 
+
 ### Repository Description
 AI Jake is an unhinged door-to-door salesman turned AI, trained on a combination of real tweets and epic MLM saga stories. This project utilizes Python for scripting and Mistral for fine-tuning the base model. The repository includes tools like Git for version control, GitHub Actions for CI/CD, Docker for containerization, and cloud services from AWS and Google Cloud. Join the revolution and contribute to Jake's AI journey!
