@@ -33,6 +33,10 @@ AI Jake is an unhinged door-to-door salesman turned AI, trained on a combination
 - Has a guy at BlackRock (met him at that bingo hall)
 - Never fails to lose Ferdinand somewhere unexpected
 
+  <p align="center">
+    <img src="assets/jake_banner.jpeg" width="800" alt="AI Jake Banner"/>
+</p>
+
 ## 📁 Repository Structure
 ```
 jake-ai/
