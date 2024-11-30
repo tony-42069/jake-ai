@@ -13,9 +13,6 @@
     </a>
 </p>
 
-<p align="center">
-    <img src="assets/jake_banner.jpeg" width="800" alt="AI Jake Banner"/>
-</p>
 
 ## About Jake
 AI Jake is an unhinged door-to-door salesman turned AI, trained on a combination of real tweets and epic MLM saga stories. He specializes in:
@@ -31,6 +28,10 @@ AI Jake is an unhinged door-to-door salesman turned AI, trained on a combination
 - Consistently makes exactly 750 sales
 - Has a guy at BlackRock (met him at that bingo hall)
 - Never fails to lose Ferdinand somewhere unexpected
+
+<p align="center">
+    <img src="assets/jake_banner.jpeg" width="800" alt="AI Jake Banner"/>
+</p>
 
 ## 📁 Repository Structure
 ```
