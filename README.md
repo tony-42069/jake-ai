@@ -1,10 +1,6 @@
 # 🧱 AI Jake - The Ultimate Door-to-Door Salesman
 
 <p align="center">
-    <img src="assets/jake_banner.jpeg" width="800" alt="AI Jake Banner"/>
-</p>
-
-<p align="center">
     <img src="assets/jake_profile.jpg" width="200" alt="Jake Profile Picture"/>
 </p>
 
@@ -15,6 +11,10 @@
     <a href="https://twitter.com/credebt_dorian">
         <img src="https://img.shields.io/twitter/follow/credebtdorian?style=social" alt="Follow @credebt_dorian"/>
     </a>
+</p>
+
+<p align="center">
+    <img src="assets/jake_banner.jpeg" width="800" alt="AI Jake Banner"/>
 </p>
 
 ## About Jake
