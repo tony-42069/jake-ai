@@ -1,0 +1,27 @@
+# Training configuration for Jake AI on Azure ML
+
+compute:
+  instance_type: "NC24ads_A100_v4"  # A100 80GB GPU
+  spot_instance: true  # Use spot instances for cost savings
+
+model:
+  name: "01-ai/Yi-34B"
+  quantization: "4bit"
+  lora_r: 64
+  lora_alpha: 128
+
+training:
+  batch_size: 4
+  gradient_accumulation_steps: 8
+  learning_rate: 1e-4
+  num_epochs: 3
+  
+data:
+  train_file: "UI/2024-11-30_035649_UTC/jake_training.jsonl"
+  datastore: "workspaceblobstore"
+  
+output:
+  model_name: "jake-yi-34b"
+  save_strategy: "steps"
+  save_steps: 50
+  eval_steps: 50
