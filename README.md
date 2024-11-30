@@ -1,4 +1,4 @@
-# AI Jake - The Ultimate Door-to-Door Salesman
+# 🧱 AI Jake - The Ultimate Door-to-Door Salesman
 
 <p align="center">
     <img src="assets/jake_banner.jpeg" width="800" alt="AI Jake Banner"/>
@@ -25,14 +25,14 @@ AI Jake is an unhinged door-to-door salesman turned AI, trained on a combination
 - Working with Crackhead Aaron on protein-powered schemes
 - Managing a team of CrossFit-loving Olympic cows
 
-## Features
+## 🌟 Features
 - Starts every story with "Good Evening World"
 - Always works exactly 14-hour days
 - Consistently makes exactly 750 sales
 - Has a guy at BlackRock (met him at that bingo hall)
 - Never fails to lose Ferdinand somewhere unexpected
 
-## Repository Structure
+## 📁 Repository Structure
 ```
 jake-ai/
 ├── data/
@@ -54,35 +54,22 @@ jake-ai/
     └── images/                          # Generated art for stories
 ```
 
-## Future Development
-- [ ] Jake Art Generator (coming soon)
-- [ ] MLM Scheme Generator
-- [ ] Automatic Billion-Dollar Calculator
-- [ ] Crackhead Aaron's Protein Shake Analyzer
-- [ ] Olympic Cows Training Program
-
-## Training Process
+## 🚀 Training Process
 The model is trained using:
-- Yi-34B base model
+- Yi-34B base model (01.ai)
 - QLoRA fine-tuning for efficiency
 - Azure ML A100 GPU infrastructure
 - 4-bit quantization for memory optimization
 - Custom prompt formatting for Jake's unique style
 
-## Training Stats
+## 🎯 Training Stats
 - 369 authentic Jake tweets
 - 10 epic MLM saga stories
 - 379 total training examples
 - 3 epochs of training
 - Trained on Azure ML A100 GPU
 
-## Example Usage
-```python
-# Coming soon: Jake AI API examples
-```
-
-## Tools and Technologies
-- **Programming Languages:** Python
+## 🛠️ Tools and Technologies
 - **Model:** Yi-34B (01.ai)
 - **Training Infrastructure:**
   - Azure ML with A100 GPU
@@ -94,7 +81,14 @@ The model is trained using:
   - bitsandbytes for quantization
 - **Cloud Services:** Azure ML
 
-## Contributing
+## 🚀 Future Development
+- [ ] Jake Art Generator (coming soon)
+- [ ] MLM Scheme Generator
+- [ ] Automatic Billion-Dollar Calculator
+- [ ] Crackhead Aaron's Protein Shake Analyzer
+- [ ] Olympic Cows Training Program
+
+## 🤝 Contributing
 Want to contribute to Jake's door-to-door AI revolution? Here's how:
 1. Fork the repository
 2. Create your feature branch
@@ -102,12 +96,15 @@ Want to contribute to Jake's door-to-door AI revolution? Here's how:
 4. Help Ferdinand find his way back
 5. Submit a pull request
 
-## License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Acknowledgments
+## 🙏 Acknowledgments
 - Ferdinand, for never reaching the correct destination
 - Crackhead Aaron, for the protein-powered motivation
 - The Olympic cows, for their athletic support
 - TinyLlama, for the French LinkedIn updates
 - That guy from BlackRock (met him at that bingo hall)
+
+### Repository Description
+AI Jake is an unhinged door-to-door salesman turned AI, trained on real tweets and epic MLM saga stories. Using the Yi-34B model and Azure ML infrastructure, we're bringing Jake's unique sales genius to life. Join the revolution and help Jake close those billion-dollar deals!
