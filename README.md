@@ -70,6 +70,13 @@ The model is trained using:
 - 3 epochs of training
 - Trained on Azure ML A100 GPU
 
+## 🎯 Latest Achievements (December 4, 2024)
+- Successfully fine-tuned Yi-34B on Azure ML A100
+- Implemented efficient training with QLoRA and 4-bit quantization
+- Achieved loss reduction from 4.1917 to 2.069
+- Created robust data cleaning pipeline
+- Developed test_model.py for story generation
+
 ## 🛠️ Tools and Technologies
 - **Model:** Yi-34B (01.ai)
 - **Training Infrastructure:**

@@ -28,6 +28,32 @@
 - Final model saved automatically
 - Copy to your storage
 
+## Latest Training (December 4, 2024)
+- Successfully fine-tuned Yi-34B model using Azure ML A100 GPU
+- Achieved loss reduction from 4.1917 to 2.069 over 3 epochs
+- Used 4-bit quantization and LoRA for efficient training
+- Training Parameters:
+  * Batch size: 1
+  * Gradient accumulation steps: 16
+  * Learning rate: 0.0001
+  * Epochs: 3
+  * QLoRA configuration:
+    - LoRA rank: 64
+    - LoRA alpha: 128
+    - Target modules: ["q_proj", "k_proj", "v_proj", "o_proj"]
+    - 4-bit quantization (bfloat16)
+
+## Model Artifacts
+- Platform: Azure ML
+- Environment: azureml_py38
+- GPU: A100
+- Cache: /dev/shm/cache
+
+## Testing
+- Created test_model.py for inference with cleaned prompt templates
+- Focused on capturing Jake's unique sales storytelling style
+- Implemented comprehensive data cleaning pipeline
+
 ## Important Notes
 - Estimated cost: ~$10.80
 - Training time: 2-3 hours
